@@ -1,7 +1,8 @@
 # Anquab_Portfolio
 Data science portfolio
 
-# Project 1: Data science project to analyze and visualize the space race between different countries
+
+# Project1: Data science project to analyze and visualize the space race between different countries
 Project Overview:
 
 Achieved data cleaning by checking and cleaning duplicate and missing values
