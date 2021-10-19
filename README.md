@@ -11,5 +11,5 @@ Project Overview:
  4) Created sunburst graphs to do a hierarchical analysis according to country and organization
  5) Analyzed the cold war between the USA and USSR for space acquisition
 
- ![](/blob/main/newplot%20(1).png) 
+ ![](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/newplot%20(1).png) 
  ![](/blob/main/newplot.png)
