@@ -4,7 +4,6 @@ Data science portfolio
 
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
 Project Overview:
-
  1) Achieved data cleaning by checking and cleaning duplicate and missing values
  2) Created various bar charts to visualize and analyze the dataset
  3) Created chloropleth graphs to do a country-wise analysis of various attributes
