@@ -12,7 +12,7 @@ Project Overview:
  
 
  ![image1](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/newplot%20(1).png) 
- ![image2](images/newplot.png)
+ ![image2](//images/newplot.png)
 
   
  ![image3](my/Anqgithub%20(1).png)
