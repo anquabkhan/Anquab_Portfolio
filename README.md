@@ -12,6 +12,5 @@ Project Overview:
  
 
  ![image1](images https://github.com/anquabkhan/Anquab_Portfolio/blob/main/newplot%20(1).png) 
-
-  
+![](../main/newplot.png)
  
