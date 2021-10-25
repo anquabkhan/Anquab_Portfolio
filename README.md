@@ -12,5 +12,4 @@ Project Overview:
  
 
  ![image1](/images/newplot%20(1).png) 
-![](../main/newplot.png)
  
