@@ -11,6 +11,6 @@ Project Overview:
  5) Analyzed the cold war between the USA and USSR for space acquisition
  
 
- ![image1](images https://github.com/anquabkhan/Anquab_Portfolio/blob/main/newplot%20(1).png) 
+ ![image1](/images/newplot%20(1).png) 
 ![](../main/newplot.png)
  
