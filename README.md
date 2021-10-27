@@ -23,5 +23,5 @@ Project Overview:
 5) Created stacked bar graph to do a race-wise analysis according to people killed in different states
 6) created pie charts and boxplots to analyze the manner by which different age groups were killed for both male and female
 
- ![image1](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/images/boxplot.png) 
- ![image2](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/images/regplot%20.png)
+ ![image1](/images/boxplot.png) 
+ ![image2](/images/regplot%20.png)
