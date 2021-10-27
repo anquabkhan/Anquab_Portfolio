@@ -24,4 +24,4 @@ Project Overview:
 6) created pie charts and boxplots to analyze the manner by which different age groups were killed for both male and female
 
  ![image1](/images/boxplot.png) 
- ![image2](/images/regplot%20.png)
+ ![image2](/images/regplot.png)
