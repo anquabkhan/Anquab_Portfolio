@@ -10,11 +10,11 @@ Data science portfolio
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
 Project Overview:
 <ol>
- <li> 1) Achieved data cleaning by checking and cleaning duplicate and missing values </li>
- <li> 2) Created various bar charts to visualize and analyze the dataset </li>
- <li> 3) Created chloropleth graphs to do a country-wise analysis of various attributes </li>
- <li> 4) Created sunburst graphs to do a hierarchical analysis according to country and organization </li>
- <li> 5) Analyzed the cold war between the USA and USSR for space acquisition </li>
+ <li>Achieved data cleaning by checking and cleaning duplicate and missing values </li>
+ <li>Created various bar charts to visualize and analyze the dataset </li>
+ <li>Created chloropleth graphs to do a country-wise analysis of various attributes </li>
+ <li>Created sunburst graphs to do a hierarchical analysis according to country and organization </li>
+ <li>Analyzed the cold war between the USA and USSR for space acquisition </li>
  </ol>
 
  ![image1](/images/newplot_sunburst.png) 
