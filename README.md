@@ -2,7 +2,7 @@
 Data science portfolio
 
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
-Project Overview:
+<u>Project Overview:</u>
 <ol>
  <li>Achieved data cleaning by checking and cleaning duplicate and missing values </li>
  <li>Created various bar charts to visualize and analyze the dataset </li>
@@ -15,7 +15,7 @@ Project Overview:
  ![image2](/images/newplot.png)
  
 # [Project2: Data science project to analyze the fatal shooting done by the US police in the line of duty](https://github.com/anquabkhan/Fatal_force)
-Project Overview:
+<u>Project Overview:</u>
 <ol>
  <li>Achieved data cleaning by checking and cleaning duplicate and missing values </li>
  <li>Created various bar charts and line graphs to visualize and analyze the dataset </li>
