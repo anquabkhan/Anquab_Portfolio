@@ -12,6 +12,7 @@ Data science portfolio
  <li>Analyzed the cold war between the USA and USSR for space acquisition </li>
  </ol>
 </body>
+
 ![image1](/images/newplot_sunburst.png) 
 ![image2](/images/newplot.png)
  
