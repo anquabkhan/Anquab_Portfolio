@@ -1,11 +1,5 @@
 # Anquab_Portfolio
 Data science portfolio
-<h1>Hi i am here </h1>
-<ol>
- <li>Coffee</li>
- <li>Tea</li>
- <li>Milk</li>
- </ol>
 
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
 Project Overview:
