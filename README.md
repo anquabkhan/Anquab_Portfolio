@@ -11,9 +11,9 @@ Data science portfolio
  <li>Created sunburst graphs to do a hierarchical analysis according to country and organization </li>
  <li>Analyzed the cold war between the USA and USSR for space acquisition </li>
  </ol>
- </body>
-![image1](/images/newplot_sunburst.png) 
-![image2](/images/newplot.png)
+</body>
+ ![image1](/images/newplot_sunburst.png) 
+ ![image2](/images/newplot.png)
  
 # [Project2: Data science project to analyze the fatal shooting done by the US police in the line of duty](https://github.com/anquabkhan/Fatal_force)
 <p><u>Project Overview:</u></p>
