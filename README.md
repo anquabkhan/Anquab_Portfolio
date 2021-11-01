@@ -2,6 +2,7 @@
 Data science portfolio
 
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
+<body>
 <p><u>Project Overview:</u></p>
 <ol>
  <li>Achieved data cleaning by checking and cleaning duplicate and missing values </li>
@@ -10,7 +11,7 @@ Data science portfolio
  <li>Created sunburst graphs to do a hierarchical analysis according to country and organization </li>
  <li>Analyzed the cold war between the USA and USSR for space acquisition </li>
  </ol>
-
+ </body>
  ![image1](/images/newplot_sunburst.png) 
  ![image2](/images/newplot.png)
  
