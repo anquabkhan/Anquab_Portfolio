@@ -41,6 +41,6 @@ Data science portfolio
  <li>Used the models to make predictions</li>
 </ol>
  
-![image1](/images/boxplot.png) 
-![image2](/images/regplot.png)
+![image1](/images/Earnings1.png) 
+![image2](/images/Earnings2.png)
 
