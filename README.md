@@ -29,3 +29,18 @@ Data science portfolio
  
 ![image1](/images/boxplot.png) 
 ![image2](/images/regplot.png)
+
+# [Project3: Machine learning project to determine peoples earnings based on the national longitudinal survey of youth 1997 ](https://github.com/anquabkhan/Determination_of_earnings)
+<p><u>Project Overview:</u></p>
+<ol>
+ <li>Achieved preliminary data exploration by checking for missing and duplicate values, checking the descriptive statistics, and visualizing the features of the dataset </li>
+ <li>Achieved data by cleaning duplicate and missing values </li>
+ <li>Implemented simple linear regression and Multivariable regression on the dataset</li>
+ <li>Evaluated the coefficients of both models</li>
+ <li>Analyzed and estimated values and regression residuals for both models </li>
+ <li>Used the models to make predictions</li>
+</ol>
+ 
+![image1](/images/boxplot.png) 
+![image2](/images/regplot.png)
+
