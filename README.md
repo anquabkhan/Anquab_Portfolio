@@ -1,4 +1,5 @@
-#[Anquab_portfolio]
+#[Anquab khan]
+
 Data science portfolio
 
 # [Project1: Data science project to analyze and visualize the space race between different countries](https://github.com/anquabkhan/google-collab)
