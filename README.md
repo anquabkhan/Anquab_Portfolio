@@ -44,3 +44,18 @@ Data science porfolio
 ![image1](/images/Earnings1.png) 
 ![image2](/images/Earnings2.png)
 
+# [Project4: Natural language processing project to analyze and classify the sentiment of imdb reviews ](https://github.com/anquabkhan/Imdb_sentiment_analysis)
+<p><u>Project Overview:</u></p>
+<ol>
+  <li>Achieved data analysis and data cleaning of the imdb database containing the sevreal reviews and their sentiments </li>
+  <li> Created a histogram for the length of the reviews </li>
+  <li> Created a countplot to compare the number of positive and negative sentiments </li>
+  <li> Created a function to remove the punctuation and stopwords from each review </li>
+  <li> Used the Countvectorizer to transform the given reviews into vectors on the basis of frequency of words </li> 
+<li> Used the naive bayes classifier to train the model on the training data and making predictions using the testing data </li>
+ <li> Evaluated the model using the confusion matrix, classification report and the seaborn heatmap </li>
+
+</ol>
+ 
+![newplot](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_countplot.png)
+![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_heatmap.png)
