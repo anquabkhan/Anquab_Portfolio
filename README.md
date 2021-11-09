@@ -52,7 +52,7 @@ Data science porfolio
   <li> Created a countplot to compare the number of positive and negative sentiments </li>
   <li> Created a function to remove the punctuation and stopwords from each review </li>
   <li> Used the Countvectorizer to transform the given reviews into vectors on the basis of frequency of words </li> 
-<li> Used the naive bayes classifier to train the model on the training data and making predictions using the testing data </li>
+ <li> Used the naive bayes classifier to train the model on the training data and making predictions using the testing data </li>
  <li> Evaluated the model using the confusion matrix, classification report and the seaborn heatmap </li>
 
 </ol>
