@@ -57,5 +57,5 @@ Data science porfolio
 
 </ol>
  
-![newplot](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_countplot.png)
-![newplot (1)](https://github.com/anquabkhan/Imdb_sentiment_analysis/blob/main/images/imdb_heatmap.png)
+![newplot](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/images/imdb_countplot.png)
+![newplot (1)](https://github.com/anquabkhan/Anquab_Portfolio/blob/main/images/imdb_heatmap.png)
