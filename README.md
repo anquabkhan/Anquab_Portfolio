@@ -72,5 +72,10 @@
 
 </ol>
  
-![newplot](/images/imdb_countplot.png)
-![newplot (1)](/images/imdb_heatmap.png)
+![newplot](/images/Randomforest2.png)
+![newplot (1)](/images/Randomforest3.png)
+![newplot](/images/Randomforest4.png)
+![newplot](/images/Randomforest6.png)
+
+
+
