@@ -59,3 +59,18 @@
  
 ![newplot](/images/imdb_countplot.png)
 ![newplot (1)](/images/imdb_heatmap.png)
+
+# [Project5: Machine learning project to predict the price of cars using Random forest algorithm ](https://github.com/anquabkhan/Random_forest_project)
+<p><u>Project Overview:</u></p>
+<ol>
+  <li>Data analysis and data cleaning of the Vehices database containing 25 colunms  </li>
+  <li> Handling and removal of outlier's </li>
+  <li> Handling of Null values </li>
+  <li> Exploratory Data Analysis </li>
+  <li> Label processing </li> 
+ <li> Implemenation of Random forest algorithm for vehicle price prediction </li>
+
+</ol>
+ 
+![newplot](/images/imdb_countplot.png)
+![newplot (1)](/images/imdb_heatmap.png)
