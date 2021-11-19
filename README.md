@@ -89,10 +89,9 @@
 
 </ol>
  
-![newplot](/images/Randomforest2.png)
-![newplot (1)](/images/Randomforest3.png)
-![newplot](/images/Randomforest4.png)
-![newplot](/images/Randomforest6.png)
+![newplot](/images/sms-1.png)
+![newplot (1)](/images/sms-2.png)
+
 
 
 
