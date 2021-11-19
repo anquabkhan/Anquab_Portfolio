@@ -77,5 +77,22 @@
 ![newplot](/images/Randomforest4.png)
 ![newplot](/images/Randomforest6.png)
 
+# [Project6:  Machine learning project for student Market segmentation using Kmeans Clustering Algorithm  ](https://github.com/anquabkhan/student_market_segmentation)
+<p><u>Project Overview:</u></p>
+<ol>
+  <li>Achieved data analysis and data cleaning of the student database  </li>
+  <li> Created a boxplot for the age of the students in order to reconganize and remove the outliers </li>
+  <li>  Performed Data preprocessing by entering Dummy inputs for the gender colunm  </li>
+  <li> Performed regressive Kmeans and used the elbow point to determine optimum number of clusters </li>
+  <li> Label processing </li> 
+ <li> Plotted a bar chart between number of clusters and their frequencies </li>
+
+</ol>
+ 
+![newplot](/images/Randomforest2.png)
+![newplot (1)](/images/Randomforest3.png)
+![newplot](/images/Randomforest4.png)
+![newplot](/images/Randomforest6.png)
+
 
 
