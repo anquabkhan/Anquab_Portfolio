@@ -92,8 +92,7 @@
 ![newplot](/images/sms-1.png)
 ![newplot (1)](/images/sms-2.png)
 
-# [Project7: Machine learning project for Junk property classification using Random Forest Algorithm 
-  ](https://github.com/anquabkhan/randomforest2)
+# [Project7: Machine learning project for Junk property classification using Random Forest Algorithm](https://github.com/anquabkhan/randomforest2)
 <p><u>Project Overview:</u></p>
 <ol>
   <li> Achieved data analysis and data cleaning of the junk property database  </li>
