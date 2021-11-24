@@ -103,4 +103,16 @@
 
 </ol>
 
+# [Project8:  Deep learning project for Heart desease prediction using Artificial neural network ](https://github.com/anquabkhan/deeplearning1)
+<p><u>Project Overview:</u></p>
+<ol>
+  <li> Achieved data analysis and data cleaning of the Heart database  </li>
+  <li> Created a pair plot for the features of the heart dataset </li>
+  <li> Performed Data preprocessing by entering Dummy inputs for the gender colunm </li>
+  <li> Used MinMaxScaler to acheive data normaization and data standerdization </li>
+  <li> Created the artificial neural network using sequential class and Dense object </li> 
+    <li> Compiled the model with mean square error and adam optamizer </li> 
+      <li> Fitted the data and determined the optimum number of neurons and epochs  </li> 
+          <li> Used model prediction to predict the chances of the patient having heart desease   </li> 
 
+</ol>
