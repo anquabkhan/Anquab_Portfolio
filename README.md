@@ -116,3 +116,18 @@
           <li> Used model prediction to predict the chances of the patient having heart desease   </li> 
 
 </ol>
+
+
+# [Project9:  Deep learning project to classify and augument images of cifar-100 dataset ](https://github.com/anquabkhan/project2)
+<p><u>Project Overview:</u></p>
+<ol>
+ <li> Achieved data pre-processing of the cifar-100 dataset </li>
+  <li> Visualized the data using the plotly.subplots </li>
+  <li> Performed data preparation using keras.to_categorical  </li>
+  <li> Created the Cnn model using Sequential, Conv2D, Maxpool2D, Dropout, Maxpooling2D, Flatten and Dense classes </li>
+  <li> Compiled the module using adam optimizer, accuracy metrics and categorical_crossentropy loss function </li> 
+<li> Evaluated the accuracy and loss of the model </li>
+<li> Achieved image augumentation using the ImageDataGenerator </li>
+ <li> Saved the module in a new directory </li>
+
+</ol>
