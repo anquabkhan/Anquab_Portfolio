@@ -131,5 +131,5 @@
  <li> Saved the module in a new directory </li>
 
 </ol>
-![newplot](/images/sms-1.png)
+![newplot](/images/Cifar1.png)
 
